@@ -4,7 +4,7 @@ This exercise is based on a Treehouse course on JS.
 
 # User story:
 
-Create a game where a user inputs a noun, a verb and two adjectives. Store these inputs in variables and output them in a message that's a paragraph in the / <main> tag.
+Create a game where a user inputs a noun, a verb and two adjectives. Store these inputs in variables and output them in a message that's a paragraph in the main tag.
   
  In details, you'll need to:
  
