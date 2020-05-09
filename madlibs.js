@@ -4,6 +4,6 @@ let verb = prompt("Write a gerund (verb + ing).");
 let adj1 = prompt("Write an adjective.");
 let adj2 = prompt("Write another adjective.");
 
-let message = `Unlike ${noun}, which is ${noun2} for ${adj1} people, ${verb} is ${adj2}.`
+let message = `<p>Unlike ${noun}, which is ${noun2} for ${adj1} people, ${verb} is ${adj2}.</p>`
 
-console.log(message);
+document.querySelector('main').innerHTML = message;
